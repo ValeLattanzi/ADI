@@ -1,0 +1,6 @@
+@ADI_HostAddress = http://localhost:5255
+
+GET {{ADI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
